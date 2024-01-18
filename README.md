@@ -6,5 +6,5 @@
 
 # crdsql.py uses a sql/mysql to create a CRUD.
 ![image](https://github.com/cogie/Python-Basic-CRUD/assets/32855656/04647491-3b85-433b-82dd-98713e78eacd)
-# note: you need to have a mysql db server for this to work you can use xampp, also install mysql module in python use this "pip install mysql-connector-python"
+# note: you need to have a mysql db server for this to work you can use xampp, also install mysql module in python use "pip install mysql-connector-python"
 
